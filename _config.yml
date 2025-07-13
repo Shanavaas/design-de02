@@ -1,7 +1,0 @@
-permalink: pretty
-defaults:
-  - scope:
-      path: ""
-      type: "html"
-    values:
-      layout: none
